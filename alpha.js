@@ -86,6 +86,6 @@ async function startalpha() {
     })
 }
 startalpha()
-
+require("http").createServer((_, res) => res.end('BOT BY FAREL X ALFA')).listen(8080)
 process.once('SIGINT', () => bot.stop('SIGINT'))
 process.once('SIGTERM', () => bot.stop('SIGTERM'))

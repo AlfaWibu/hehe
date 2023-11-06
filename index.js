@@ -317,7 +317,7 @@ let menumain = `
 ║Catatan : on atau off untuk aktifkan / nonaktifkan fitur yang tertera di samping nya
 ╚══════════
 `
-const listaka = `
+const menunsfw = `
 ${q} Tidak Ada Di Dalam List
     ❀ _List_ ❀
  ╔══════════
